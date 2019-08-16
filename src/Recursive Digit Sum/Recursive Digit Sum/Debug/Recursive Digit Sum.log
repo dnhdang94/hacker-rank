@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\Study\Coding Practice\hacker-rank\src\Recursive Digit Sum\Recursive Digit Sum\main.cpp(13,20): warning C4018:  '<': signed/unsigned mismatch
+E:\Study\Coding Practice\hacker-rank\src\Recursive Digit Sum\Recursive Digit Sum\main.cpp(22,20): warning C4018:  '<': signed/unsigned mismatch
+  Recursive Digit Sum.vcxproj -> E:\Study\Coding Practice\hacker-rank\src\Recursive Digit Sum\Debug\Recursive Digit Sum.exe
